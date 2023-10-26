@@ -1,13 +1,113 @@
 ---
+##################### MEDICAL IMAGING #####################
 - title: MICCAI
   year: 2024
   id: miccai24
   #link: https://sigir-2024.github.io
   deadline: '2024-03-09 23:59:00'
-  abstract_deadline: '2024-01-18 23:59:00'
+  #abstract_deadline: '2024-01-18 23:59:00'
   place: Marrakesh, Morocco
   date: October 6-19, 2024
   start: 2024-10-06
   end: 2024-10-10
   sub: MI
-  #note: Mandatory abstract deadline on January 18, 2024. More info <a href='https://sigir-2024.github.io/call_for_papers.html'>here</a>.
+
+- title: MIDL
+  year: 2024
+  id: midl24
+  link: https://2024.midl.io/
+  deadline: '2024-02-07 23:59:00'
+  timezone: UTC-12
+  place: Paris, France
+  date: July 3-5, 2024
+  start: 2024-07-03
+  end: 2024-07-05
+  sub: MI
+
+- title: ISBI
+  year: 2024
+  id: isbi24
+  link: https://biomedicalimaging.org/2024/
+  deadline: '2024-11-10 23:59:00'
+  timezone: America/Los_Angeles
+  place: Athens, Greece
+  date: May 27-30, 2024
+  start: 2024-05-27
+  end: 2024-05-30
+  sub: MI
+
+##################### COMPUTER VISION #####################
+
+- title: ECCV
+  year: 2024
+  id: eccv24
+  link: https://eccv2024.ecva.net/
+  deadline: '2024-03-07 13:00:00'
+  timezone: America/Los_Angeles
+  place: Milan, Italy
+  date: September 29 - October 4 2024
+  start: 2024-09-29
+  end: 2024-10-24
+  sub: CV
+
+- title: ICIP
+  year: 2024
+  id: icip24
+  link: https://2024.ieeeicip.org/
+  deadline: '2024-02-01 23:59:00'
+  #imezone: 
+  place: Abu Dhabi, UAE
+  date: October 27-30, 2024
+  start: 2024-10-27
+  end: 2024-10-30
+  sub: CV
+
+- title: CVPR
+  year: 2024
+  id: cvpr24
+  link: https://cvpr.thecvf.com/
+  deadline: '2023-11-17 23:59:00'
+  timezone: America/Los_Angeles
+  place: Seattle, USA
+  date: June 17-21, 2024
+  start: 2024-06-17
+  end: 2024-06-21
+  sub: CV
+
+##################### MACHINE LEARNING #####################
+
+- title: ICML
+  year: 2024
+  id: icml24
+  link: https://icml.cc/
+  deadline: '2024-02-01 23:59:00'
+  timezone: UTC-12
+  place: Vienna, Austria
+  date: July 21-27, 2024
+  start: 2024-07-21
+  end: 2024-07-27
+  sub: ML
+
+- title: ICLR
+  year: 2024
+  id: iclr24
+  link: https://iclr.cc/
+  deadline: '2024-09-28 23:59:00'
+  timezone: UTC-12
+  place: Vienna, Austria
+  date: May 7-11, 2024
+  start: 2024-05-07
+  end: 2024-05-11
+  sub: ML
+
+- title: AAAI
+  year: 2024
+  id: aaai24
+  link: https://aaai.org/aaai-conference/
+  deadline: '2024-08-15 23:59:00'
+  timezone: UTC-12
+  place: Vancouver, Canada
+  date: February 20-27, 2024
+  start: 2024-02-20
+  end: 2024-02-27
+  sub: ML
