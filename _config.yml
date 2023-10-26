@@ -3,7 +3,7 @@ description: Countdowns to medical imaging, computer vision, and machine learnin
 author: Leo Fillioux
 
 domain: "https://mics-lab.github.io/deadlines"
-baseurl: "https://mics-lab.github.io/deadlines"
+baseurl: "/deadlines"
 
 github_username: MICS-Lab
 github_repo: deadlines
