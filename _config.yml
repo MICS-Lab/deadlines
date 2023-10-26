@@ -2,8 +2,8 @@ title: MICS Conference Deadlines
 description: Countdowns to top medical imaging, CV, ML conference deadlines.
 author: Leo Fillioux
 
-domain: "mics-lab.github.io"
-baseurl: ""
+domain: "https://mics-lab.github.io/deadlines"
+baseurl: "/deadlines"
 
 github_username: leofillioux
 github_repo: mics-lab.github.io
