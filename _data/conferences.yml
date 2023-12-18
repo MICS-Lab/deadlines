@@ -3,8 +3,8 @@
 - title: MICCAI
   year: 2024
   id: miccai24
-  #link: https://sigir-2024.github.io
-  deadline: '2024-03-09 23:59:00'
+  link: https://conferences.miccai.org/2024/en/default.asp
+  deadline: '2024-03-07 23:59:00'
   #abstract_deadline: '2024-01-18 23:59:00'
   place: Marrakesh, Morocco
   date: October 6-19, 2024
@@ -45,7 +45,7 @@
   deadline: '2024-03-07 13:00:00'
   timezone: America/Los_Angeles
   place: Milan, Italy
-  date: September 29 - October 4 2024
+  date: September 29 - October 4, 2024
   start: 2024-09-29
   end: 2024-10-24
   sub: CV
